@@ -9,3 +9,13 @@ T1H 1 code ,high voltage time 0.8us ±150ns
 T0L 0 code , low voltage time 0.85us ±150ns
 T1L 1 code ,low voltage time 0.45us ±150ns
 RES low voltage time Above 50μs
+
+
+
+2 LED Streifen in Serie um 12v auf 6v jeweils aufzuteilen. Stange als GND Wiederstand, um die 12v abzusenken auf. Sollten dabei 11V oder weniger erreichen.
+0.2 Ohm für 11V, 0.4 Ohm für 10V.
+
+Wiederstand an Data line, siehe Specsheet.
+
+Schleifbürsten aus altem multifunktionswerkzeug. Kondensator an PWR um Abfälle zu vermeiden.
+Netzteil aus altem PC.
