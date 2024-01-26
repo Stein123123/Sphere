@@ -19,3 +19,25 @@ Wiederstand an Data line, siehe Specsheet.
 
 Schleifbürsten aus altem multifunktionswerkzeug. Kondensator an PWR um Abfälle zu vermeiden.
 Netzteil aus altem PC.
+
+
+KabelCodes:
+    Stromversorgung (Power):
+        Rot: Positive Versorgungsspannung (+Vcc)
+        Schwarz oder Braun: Masse (GND)
+
+    Digitale Signale:
+        Blau oder Grün: Allgemeine digitale Signale
+        Gelb: Serielle Kommunikation (wie UART)
+        Weiß: Clock-Signal (z.B., für SPI)
+        Orange: Datenleitungen (z.B., für I2C)
+
+    Analoge Signale:
+        Weiß: Analoges Referenzsignal
+        Grau: Analoge Signale
+
+    Taster und Schalter:
+        Weiß oder Grau: Schalter oder Taster (zum Beispiel für Reset)
+
+    LEDs:
+        Orange oder Gelb: LED-Anschluss (kann je nach Farbe der LED variieren)
