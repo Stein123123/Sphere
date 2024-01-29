@@ -41,3 +41,5 @@ KabelCodes:
 
     LEDs:
         Orange oder Gelb: LED-Anschluss (kann je nach Farbe der LED variieren)
+
+Data pin auf 5v hoch
