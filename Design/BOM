@@ -6,3 +6,5 @@ data slipring
 single ws2812b status led
 debounced switch
 Schrumpfschlauch
+potentiometer
+Faden
